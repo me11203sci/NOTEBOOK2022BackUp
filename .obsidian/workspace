@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1ace4bacf627620a",
+        "id": "67973dffd669b5e4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "1 - Daily Notes/09-11-2022.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -127,8 +127,10 @@
     "direction": "horizontal",
     "width": 345.5909118652344
   },
-  "active": "0b45df0806f9ec2c",
+  "active": "67973dffd669b5e4",
   "lastOpenFiles": [
+    "1 - Daily Notes/09-11-2022.md",
+    "3 - Slip-Box/Note Formatting References/Mermaid Flowchart Cheat Sheet.md",
     "2 - Reference/America Firsthand.md",
     "0 - Inbox/08-26-2022.md",
     "0 - Inbox/08-23-2022.md",
@@ -136,8 +138,6 @@
     "0 - Inbox/08-29-2022.md",
     "0 - Inbox/08-22-2022.md",
     "1 - Daily Notes/09-07-2022.md",
-    "1 - Daily Notes/08-31-2022.md",
-    "1 - Daily Notes/09-01-2022.md",
-    "1 - Daily Notes/09-02-2022.md"
+    "1 - Daily Notes/08-31-2022.md"
   ]
 }
