@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d33eb86246c1f7dd",
+        "id": "1ace4bacf627620a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1 - Daily Notes/09-11-2022.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Daily Notes/09-11-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,14 +111,23 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "6b676808c552f202",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 345.5909118652344
   },
-  "active": "d33eb86246c1f7dd",
+  "active": "0b45df0806f9ec2c",
   "lastOpenFiles": [
     "2 - Reference/America Firsthand.md",
     "0 - Inbox/08-26-2022.md",

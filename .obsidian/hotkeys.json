@@ -81,5 +81,14 @@
       ],
       "key": "P"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
   ]
 }
