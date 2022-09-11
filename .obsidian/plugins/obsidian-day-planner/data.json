@@ -1,0 +1,40 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "1 - Daily Notes/06-01-2022.md",
+      "date": "Wed Jun 01 2022"
+    },
+    {
+      "notePath": "1 - Daily Notes/06-02-2022.md",
+      "date": "Thu Jun 02 2022"
+    },
+    {
+      "notePath": "1 - Daily Notes/06-03-2022.md",
+      "date": "Fri Jun 03 2022"
+    },
+    {
+      "notePath": "1 - Daily Notes/06-04-2022.md",
+      "date": "Sat Jun 04 2022"
+    },
+    {
+      "notePath": "1 - Daily Notes/06-06-2022.md",
+      "date": "Mon Jun 06 2022"
+    },
+    {
+      "notePath": "1 - Daily Notes/06-07-2022.md",
+      "date": "Tue Jun 07 2022"
+    },
+    {
+      "notePath": "1 - Daily Notes/06-08-2022.md",
+      "date": "Wed Jun 08 2022"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": false,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 4
+}

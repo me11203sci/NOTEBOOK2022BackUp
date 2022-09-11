@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "2d439b514aa1a6b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d33eb86246c1f7dd",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2b5425169fe0263",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8d75274fcd4fe55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "023ece4848ad7344",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b0b8e19f8fe8284",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253
+  },
+  "right": {
+    "id": "f67efe546fc87a60",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf1b7d9ea952881f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b45df0806f9ec2c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d5a0f199f7aa251",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e30d83f16ff4f0c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c2ea30565ef6a1e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24c9660fc703b2e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5909118652344
+  },
+  "active": "d33eb86246c1f7dd",
+  "lastOpenFiles": [
+    "2 - Reference/America Firsthand.md",
+    "0 - Inbox/08-26-2022.md",
+    "0 - Inbox/08-23-2022.md",
+    "1 - Daily Notes/09-09-2022.md",
+    "0 - Inbox/08-29-2022.md",
+    "0 - Inbox/08-22-2022.md",
+    "1 - Daily Notes/09-07-2022.md",
+    "1 - Daily Notes/08-31-2022.md",
+    "1 - Daily Notes/09-01-2022.md",
+    "1 - Daily Notes/09-02-2022.md"
+  ]
+}
