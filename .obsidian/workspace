@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "67973dffd669b5e4",
+        "id": "efd277983d150a1b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 - Daily Notes/09-12-2022.md",
-            "mode": "source",
+            "file": "1 - Daily Notes/09-14-2022.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Daily Notes/09-12-2022.md",
+                "file": "1 - Daily Notes/09-14-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +127,17 @@
     "direction": "horizontal",
     "width": 345.5909118652344
   },
-  "active": "67973dffd669b5e4",
+  "active": "efd277983d150a1b",
   "lastOpenFiles": [
+    "1 - Daily Notes/09-15-2022.md",
     "1 - Daily Notes/08-31-2022.md",
-    "1 - Daily Notes/09-01-2022.md",
+    "1 - Daily Notes/09-16-2022.md",
     "1 - Daily Notes/09-02-2022.md",
+    "1 - Daily Notes/09-07-2022.md",
     "1 - Daily Notes/09-09-2022.md",
-    "1 - Daily Notes/09-11-2022.md",
-    "5 - Templates/Reference Note.md",
-    "5 - Templates/Daily Note.md",
-    "5 - Templates/Recipe.md",
-    "5 - Templates/Atomized Note.md",
-    "3 - Slip-Box/Note Formatting References/Mermaid Flowchart Cheat Sheet.md"
+    "1 - Daily Notes/09-01-2022.md",
+    "0 - Inbox/08-29-2022.md",
+    "0 - Inbox/08-30-2022.md",
+    "1 - Daily Notes/09-14-2022.md"
   ]
 }

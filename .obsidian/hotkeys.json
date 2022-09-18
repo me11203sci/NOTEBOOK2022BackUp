@@ -90,5 +90,13 @@
       ],
       "key": "I"
     }
+  ],
+  "highlightr-plugin:Orange": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "="
+    }
   ]
 }
